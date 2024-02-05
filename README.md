@@ -28,13 +28,12 @@ Bienvenue dans le Créateur de Carte Numérique ! Cette application légère et 
 
 ## Captures d'écran
 
-![Application](media/app.png)
+![Application](CardGen/media/app.png)
 
 **Exemple de Carte Générée**
-![Exemple de Carte](media/generated_card.png)
+![Exemple de Carte](CardGen/media/generated_card.png)
 
 ## Netlify
-
--Utilisez netlify pour deployer votre carte numérique.
-
+➡️Utilisez netlify pour deployer votre carte numérique. 
+#
 Profitez de la création de vos cartes numériques uniques avec cette application conviviale ! N'hésitez pas à contribuer, signaler des problèmes ou proposer des améliorations.
