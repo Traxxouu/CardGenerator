@@ -28,33 +28,33 @@ Bienvenue dans le Créateur de Carte Numérique ! Cette application légère et 
 
 ## Captures d'écran
 
-![Application](CardGen/media/app.png)
+<img src="CardGen/media/app.png" width="300">
 
 **Exemple de Carte Générée**
-![Exemple de Carte](CardGen/media/generated_card.png)
+<img src="CardGen/media/generated_card.png" width="400">
 
 ## Netlify
 **➡️Utilisez netlify pour deployer votre carte numérique.** 
 1. **Créer un dossier**
-   - Vous devez tout d'abord creer un dossier contenant le fichier *style.css* ; le fichier qui vient d'être généré *index.html* et le dossier *media*.
-      - ![Créer](CardGen/netlify/CreerDossier.png)
+   - Vous devez tout d'abord creer un dossier contenant le fichier ✨**style.css**✨ ; le fichier qui vient d'être généré ✨**index.html**✨ et le dossier ✨**media**✨.
+      - <img src="netlify/CreerDossier.png" width="720">
 
 2. **Netlify**
    - Rendez-vous sur le site https://netlify.app/ ➡️ inscrivez-vous/connectez-vous et cliquez sur "Add new site" puis sur "Deploy manually".
-      - ![entrer](CardGen/netlify/AddNewSite.png)
+      - <img src="netlify/AddNewSite.png" width="320">
 
 3. **Drag n Drop**
    - Ensuite prendre le dossier contenant le fichier *style.css* ; le fichier qui vient d'être généré *index.html* ainsi que le dossier media puis le drag n drop dans netlify 
-      - ![Drop](CardGen/netlify/DropDossier.png)
+      - <img src="netlify/DropDossier.png" width="520">
     
 4. **Récupérer le lien**
    - Rendez-vous dans "Site configuration"
-      - ![Config](CardGen/netlify/SiteConfig.png)
-      - ![Modif](CardGen/netlify/Lelien.png) vous pouvez modifier le lien
+      - <img src="netlify/SiteConfig.png" width="520">
+      - <img src="netlify/Lelien.png" width="520"> vous pouvez modifier l'url dans les paramètres / cliquez dessus pour entrer dans le site
 
 5. **Et voilà**
    - Bravo vous avez votre propre carte numérique
-      - ![Fini](CardGen/netlify/lesite.png)
+      - <img src="netlify/lesite.png" width="420">
 
 #
 Profitez de la création de vos cartes numériques uniques avec cette application conviviale ! N'hésitez pas à contribuer, signaler des problèmes ou proposer des améliorations.
