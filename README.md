@@ -58,3 +58,5 @@ Bienvenue dans le Créateur de Carte Numérique ! Cette application légère et 
 
 #
 Profitez de la création de vos cartes numériques uniques avec cette application conviviale ! N'hésitez pas à contribuer, signaler des problèmes ou proposer des améliorations.
+
+https://paypal.me/frtrax?country.x=FR&locale.x=fr_FR
