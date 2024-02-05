@@ -58,5 +58,6 @@ Bienvenue dans le Créateur de Carte Numérique ! Cette application légère et 
 
 #
 Profitez de la création de vos cartes numériques uniques avec cette application conviviale ! N'hésitez pas à contribuer, signaler des problèmes ou proposer des améliorations.
-##
+
+## Voici mon compte PayPal pour rembourser les heures de sommeil perdues.👋
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/frtrax?country.x=FR&locale.x=fr_FR) 
