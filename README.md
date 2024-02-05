@@ -34,6 +34,27 @@ Bienvenue dans le Créateur de Carte Numérique ! Cette application légère et 
 ![Exemple de Carte](CardGen/media/generated_card.png)
 
 ## Netlify
-➡️Utilisez netlify pour deployer votre carte numérique. 
+**➡️Utilisez netlify pour deployer votre carte numérique.** 
+1. **Créer un dossier**
+   - Vous devez tout d'abord creer un dossier contenant le fichier *style.css* ; le fichier qui vient d'être généré *index.html* et le dossier *media*.
+      - ![Créer](CardGen/netlify/CreerDossier.png)
+
+2. **Netlify**
+   - Rendez-vous sur le site https://netlify.app/ ➡️ inscrivez-vous/connectez-vous et cliquez sur "Add new site" puis sur "Deploy manually".
+      - ![entrer](CardGen/netlify/AddNewSite.png)
+
+3. **Drag n Drop**
+   - Ensuite prendre le dossier contenant le fichier *style.css* ; le fichier qui vient d'être généré *index.html* ainsi que le dossier media puis le drag n drop dans netlify 
+      - ![Drop](CardGen/netlify/DropDossier.png)
+    
+4. **Récupérer le lien**
+   - Rendez-vous dans "Site configuration"
+      - ![Config](CardGen/netlify/SiteConfig.png)
+      - ![Modif](CardGen/netlify/Lelien.png) vous pouvez modifier le lien
+
+5. **Et voilà**
+   - Bravo vous avez votre propre carte numérique
+      - ![Fini](CardGen/netlify/lesite.png)
+
 #
 Profitez de la création de vos cartes numériques uniques avec cette application conviviale ! N'hésitez pas à contribuer, signaler des problèmes ou proposer des améliorations.
